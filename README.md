@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frtvi&label=Profile%20views&color=4d096d&style=flat" alt="frtvi" /> </p>
 
-- 🔭 I’m currently working on [SmurfArena](https://github.com/frtvi/ProjectSmurfArena)
+- 🔭 I’m currently working on [SmurfArena](https://github.com/frtvi/ProjectSmurfArena) and [SeraphineBot](https://github.com/frtvi/SeraphineBot)
 
 - 🌱 I’m currently learning **Webdesign**
 
