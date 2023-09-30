@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=frtvi.frtvi&left_color=aqua&right_color=aqua"  />
+  <img src="https://profile-counter.glitch.me/frtvi/count.svg?"  />
 </div>
 
 ###
