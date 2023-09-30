@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victor</h2>
+<h2 align="left">Fala galera! Bem-vindos ao meu Github!!</h2>
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="left" height="150" src="https://pa1.aminoapps.com/6370/6df0f6b0d0eaae97b8bcc11279c43088aad82bf3_hq.gif"  />
 
@@ -38,14 +40,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/frtvi/frtvi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/frtvi/count.svg?"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/frtvi/count.svg?"  />
+  <img height="200" src="https://art.pixilart.com/16c3630a9147a08.gif"  />
 </div>
 
 ###
