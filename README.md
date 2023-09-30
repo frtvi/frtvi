@@ -9,9 +9,9 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://pa1.aminoapps.com/6370/6df0f6b0d0eaae97b8bcc11279c43088aad82bf3_hq.gif"  />
+<div align="center">
+  <img height="150" src="https://pa1.aminoapps.com/6370/6df0f6b0d0eaae97b8bcc11279c43088aad82bf3_hq.gif"  />
+</div>
 
 ###
 
@@ -41,13 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/frtvi/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://art.pixilart.com/16c3630a9147a08.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=frtvi.frtvi&left_color=aqua&right_color=aqua"  />
 </div>
 
 ###
