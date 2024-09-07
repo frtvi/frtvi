@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/kali-linux2962.jpg" height="30" alt="csharp logo"  />
+  <img src="https://img.icons8.com/?size=512&id=101665&format=png" height="30" alt="csharp logo"  />
 </div>
 
 ###
