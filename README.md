@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" height="30" alt=" logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30" alt="java logo"  />
   <img width="12" />
@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=512&id=101665&format=png" height="30" alt="csharp logo"  />
+  <img src="https://img.icons8.com/?size=512&id=101665&format=png" height="30" alt=" logo"  />
 </div>
 
 ###
