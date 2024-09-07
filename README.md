@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLpKKUslhMbFyr57WGB8wMsA0OtHoBOVQfQ&s" height="30" alt=" logo"  />
+  <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height="30" alt=" logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30" alt="java logo"  />
   <img width="12" />
