@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/6783/6783360.png" height="30" alt="cybersec logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
