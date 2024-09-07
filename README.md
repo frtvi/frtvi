@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" height="30" alt=" logo"  />
+  <img src="https://w7.pngwing.com/pngs/509/412/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png" height="30" alt=" logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="30" alt="java logo"  />
   <img width="12" />
